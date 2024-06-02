@@ -42,3 +42,13 @@ Once I took care of the incidents and found out where the weak spots were, I mad
 
 #### Checking things after fixing them: 
 After making everything secure, I watched the environment for another day to check the security details again. This helped me see how much things had improved compared to before.
+
+
+## Methodology
+Architecture before implementing Hardening Measures and Security Controls
+![Screenshot 2024-06-02 at 4 19 23 PM](https://github.com/mahin12/Honey-Net-Project/assets/27288616/b1e3a26a-8d0f-4361-8c9d-f3463440f2f7)
+
+Prior to the implementation of hardening strategies and security protocols:
+
+During the initial phase, addressed as "BEFORE," resources were deliberately made publicly accessible online. This configuration was designed to be vulnerable to lure cyber assailants and study their methods. The **Virtual Machines** were set up with completely open **Network Security Groups (NSGs)** and deactivated internal firewalls, permitting free entry from all origins. Furthermore, every other asset, including **storage accounts** and **databases**, was established with public-facing internet endpoints, foregoing the use of any **Private Endpoints** to enhance security.
+
