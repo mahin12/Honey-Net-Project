@@ -27,12 +27,17 @@ The main goal of this project was to create virtual machines in Azure that are e
 
 ## Methodology
 
-### -Setting up the honeynet: I started by setting up several virtual machines in Azure that were easy to hack, to create a not-so-secure setup.
+### -Setting up the honeynet: 
+I started by setting up several virtual machines in Azure that were easy to hack, to create a not-so-secure setup.
 
-### -Watching and studying: I set up Azure to collect logs from different sources into one place for analysis. Then, I used Microsoft Sentinel to make visual maps of attacks, set off alerts, and note down any incidents from the data.
+### -Watching and studying: 
+I set up Azure to collect logs from different sources into one place for analysis. Then, I used Microsoft Sentinel to make visual maps of attacks, set off alerts, and note down any incidents from the data.
 
-### -Measuring security: For a day, I kept an eye on how secure the environment was, noting down important security details. This gave me a starting point to see how things improved after I fixed the problems.
+### -Measuring security: 
+For a day, I kept an eye on how secure the environment was, noting down important security details. This gave me a starting point to see how things improved after I fixed the problems.
 
-### -Handling incidents and making things secure: Once I took care of the incidents and found out where the weak spots were, I made the environment stronger by following the best security practices and advice specific to Azure.
+### -Handling incidents and making things secure: 
+Once I took care of the incidents and found out where the weak spots were, I made the environment stronger by following the best security practices and advice specific to Azure.
 
-### -Checking things after fixing them: After making everything secure, I watched the environment for another day to check the security details again. This helped me see how much things had improved compared to before.
+### -Checking things after fixing them: 
+After making everything secure, I watched the environment for another day to check the security details again. This helped me see how much things had improved compared to before.
