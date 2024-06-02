@@ -1,4 +1,5 @@
-# Honey-Net-Project
+# Azure Honeynet Project - Real World Cyber Attacks
+![Screenshot 2024-06-02 at 3 17 02 PM](https://github.com/mahin12/Honey-Net-Project/assets/27288616/922ae4e9-8daa-4b63-9fb0-42212833071e)
 
 
 ## Introduction
